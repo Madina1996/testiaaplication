@@ -3,4 +3,3 @@ uvicorn
 gunicorn
 uvloop
 httptools
-pickle4
