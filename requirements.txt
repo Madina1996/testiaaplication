@@ -1,10 +1,7 @@
-pystan
 fastapi
 uvicorn
-fbprophet
 pandas
 plotly
-yfinance
 gunicorn
 uvloop
 httptools
