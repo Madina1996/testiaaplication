@@ -1,6 +1,12 @@
+pystan
 fastapi
 uvicorn
+fbprophet
+pandas
+plotly
+yfinance
 gunicorn
 uvloop
 httptools
-pickle4
+keras
+
