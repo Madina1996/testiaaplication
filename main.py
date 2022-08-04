@@ -43,7 +43,7 @@ app = FastAPI()
 @app.on_event("startup")
 def load_model():
     global model
-    model = pickle.load(open("forestfirepediction.pkl", "rb"))
+    model = pickle.load(open("./forestfirepediction.pkl", "rb"))
 
 
 @app.get('/')
