@@ -5,4 +5,5 @@ plotly
 gunicorn
 uvloop
 httptools
-keras
+tensorflow
+sklearn
